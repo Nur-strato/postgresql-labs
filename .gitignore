@@ -1,0 +1,5 @@
+*.dump
+*.tar
+*.log
+.DS_Store
+*.tmp
